@@ -1,2 +1,2 @@
-# Git-Workshop
-SLIIT workshop
+# SLIIT Workshop
+Git-workshop
